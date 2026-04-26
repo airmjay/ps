@@ -1,11 +1,8 @@
 # Ignore all files inside the features directory
 features/
 
-# OR, if you only want to ignore specific files inside features:
-features/MyDb.py
-features/*.db
-
+.ipynb_checkpoints
 # Always ignore cache
-__pycache__/
+features/__pycache__/
 *.pyc
 
