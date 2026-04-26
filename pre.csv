@@ -1,0 +1,27 @@
+AdminID,AdminName,UID,Category,Position,Name,Tenure
+OBJ-1999,Obasanjo Admin,PRE-01,Executive,President,Olusegun Obasanjo,1999 - 2007
+OBJ-1999,Obasanjo Admin,VPR-01,Executive,Vice President,Atiku Abubakar,1999 - 2007
+OBJ-1999,Obasanjo Admin,SEN-01,Legislative,Senate President,Anyim Pius Anyim,2000 - 2003
+OBJ-1999,Obasanjo Admin,SEN-02,Legislative,Senate President,Adolphus Wabara,2003 - 2005
+OBJ-1999,Obasanjo Admin,SEN-03,Legislative,Senate President,Ken Nnamani,2005 - 2007
+OBJ-1999,Obasanjo Admin,MIN-01,Executive,Minister of Finance,Ngozi Okonjo-Iweala,2003 - 2006
+OBJ-1999,Obasanjo Admin,MIN-02,Executive,Minister of FCT,Nasir El-Rufai,2003 - 2007
+OBJ-1999,Obasanjo Admin,WAG-01,Economic,Minimum Wage,"₦5,500",2000 - 2011
+YAR-2007,Yar'Adua Admin,PRE-02,Executive,President,Umaru Musa Yar'Adua,2007 - 2010
+YAR-2007,Yar'Adua Admin,VPR-02,Executive,Vice President,Goodluck Jonathan,2007 - 2010
+YAR-2007,Yar'Adua Admin,SEN-04,Legislative,Senate President,David Mark,2007 - 2015
+GEJ-2010,Jonathan Admin,PRE-03,Executive,President,Goodluck Jonathan,2010 - 2015
+GEJ-2010,Jonathan Admin,VPR-03,Executive,Vice President,Namadi Sambo,2010 - 2015
+GEJ-2010,Jonathan Admin,MIN-03,Executive,Minister of Finance,Ngozi Okonjo-Iweala,2011 - 2015
+GEJ-2010,Jonathan Admin,WAG-02,Economic,Minimum Wage,"₦18,000",2011 - 2019
+PMB-2015,Buhari Admin,PRE-04,Executive,President,Muhammadu Buhari,2015 - 2023
+PMB-2015,Buhari Admin,VPR-04,Executive,Vice President,Yemi Osinbajo,2015 - 2023
+PMB-2015,Buhari Admin,SEN-05,Legislative,Senate President,Bukola Saraki,2015 - 2019
+PMB-2015,Buhari Admin,SEN-06,Legislative,Senate President,Ahmed Lawan,2019 - 2023
+PMB-2015,Buhari Admin,MIN-04,Executive,Minister of Finance,Zainab Ahmed,2018 - 2023
+PMB-2015,Buhari Admin,WAG-03,Economic,Minimum Wage,"₦30,000",2019 - 2024
+BAT-2023,Tinubu Admin,PRE-05,Executive,President,Bola Ahmed Tinubu,2023 - Present
+BAT-2023,Tinubu Admin,VPR-05,Executive,Vice President,Kashim Shettima,2023 - Present
+BAT-2023,Tinubu Admin,SEN-07,Legislative,Senate President,Godswill Akpabio,2023 - Present
+BAT-2023,Tinubu Admin,MIN-05,Executive,Minister of Finance,Wale Edun,2023 - Present
+BAT-2023,Tinubu Admin,WAG-04,Economic,Minimum Wage,"₦70,000",2024 - Present
