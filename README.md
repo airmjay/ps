@@ -1,1 +1,4 @@
-## Practicing Pandas Python
+## Practicing Python for Data Science 
+Numpy 
+pandas
+Matlab
